@@ -1,0 +1,4 @@
+NOT EXECUTED in this environment (2026-11-20).
+Neither MATLAB nor Octave was installed. An attempted Octave installation was stopped because the disk had under 1 GB free and installation needed many dependencies.
+Run validate_piano in MATLAB or Octave to generate timestep_comparison.png, errors.csv, and validation_report.txt from actual solver output.
+No numerical conclusions are recorded here.
